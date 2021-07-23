@@ -1,0 +1,16 @@
+C:\Users\jia52\OneDrive\바탕 화면\PrintingStar\PrintingStar\bin\Debug\net5.0\PrintingStar.exe
+C:\Users\jia52\OneDrive\바탕 화면\PrintingStar\PrintingStar\bin\Debug\net5.0\PrintingStar.deps.json
+C:\Users\jia52\OneDrive\바탕 화면\PrintingStar\PrintingStar\bin\Debug\net5.0\PrintingStar.runtimeconfig.json
+C:\Users\jia52\OneDrive\바탕 화면\PrintingStar\PrintingStar\bin\Debug\net5.0\PrintingStar.runtimeconfig.dev.json
+C:\Users\jia52\OneDrive\바탕 화면\PrintingStar\PrintingStar\bin\Debug\net5.0\PrintingStar.dll
+C:\Users\jia52\OneDrive\바탕 화면\PrintingStar\PrintingStar\bin\Debug\net5.0\ref\PrintingStar.dll
+C:\Users\jia52\OneDrive\바탕 화면\PrintingStar\PrintingStar\bin\Debug\net5.0\PrintingStar.pdb
+C:\Users\jia52\OneDrive\바탕 화면\PrintingStar\PrintingStar\obj\Debug\net5.0\PrintingStar.csproj.AssemblyReference.cache
+C:\Users\jia52\OneDrive\바탕 화면\PrintingStar\PrintingStar\obj\Debug\net5.0\PrintingStar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jia52\OneDrive\바탕 화면\PrintingStar\PrintingStar\obj\Debug\net5.0\PrintingStar.AssemblyInfoInputs.cache
+C:\Users\jia52\OneDrive\바탕 화면\PrintingStar\PrintingStar\obj\Debug\net5.0\PrintingStar.AssemblyInfo.cs
+C:\Users\jia52\OneDrive\바탕 화면\PrintingStar\PrintingStar\obj\Debug\net5.0\PrintingStar.csproj.CoreCompileInputs.cache
+C:\Users\jia52\OneDrive\바탕 화면\PrintingStar\PrintingStar\obj\Debug\net5.0\PrintingStar.dll
+C:\Users\jia52\OneDrive\바탕 화면\PrintingStar\PrintingStar\obj\Debug\net5.0\ref\PrintingStar.dll
+C:\Users\jia52\OneDrive\바탕 화면\PrintingStar\PrintingStar\obj\Debug\net5.0\PrintingStar.pdb
+C:\Users\jia52\OneDrive\바탕 화면\PrintingStar\PrintingStar\obj\Debug\net5.0\PrintingStar.genruntimeconfig.cache
